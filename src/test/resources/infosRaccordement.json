@@ -1,0 +1,28 @@
+{
+	"infosRaccordement": [
+		{
+			"cle": "OI",
+			"valeur": "SFRA"
+		},
+		{
+			"cle": "PM",
+			"valeur": "SRO-BPI-5805205"
+		},
+		{
+			"cle": "PTO",
+			"valeur": "CTP-545523713-1"
+		},
+		{
+			"cle": "ppp_pwd",
+			"valeur": "fb+nbtuio"
+		},
+		{
+			"cle": "ppp_user",
+			"valeur": "Adnov.1.005@ang.bytel.dop"
+		},
+		{
+			"cle": "ip_wan",
+			"valeur": "176.162.18.108"
+		}
+	]
+}

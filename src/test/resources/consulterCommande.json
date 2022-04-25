@@ -1,0 +1,146 @@
+{
+    "idCommande": 105262,
+    "etat": "CLOTURE",
+    "etats": [
+        {
+            "date": "2022-03-14T17:19:18.846+01:00",
+            "etat": "INITIALE"
+        },
+        {
+            "date": "2022-03-14T17:19:19.088+01:00",
+            "etat": "VALIDEE"
+        },
+        {
+            "date": "2022-03-14T17:19:27.616+01:00",
+            "etat": "EN_COURS",
+            "etatSec": "LIEN_EN_COURS_COMMANDE"
+        },
+        {
+            "date": "2022-04-04T11:48:33.416+02:00",
+            "etat": "EN_COURS",
+            "etatSec": "CMD_LIEN_ENVOYEE",
+            "idSuivi": "5636591",
+            "commentaire": "mon commentaire AR ARCMD OK"
+        },
+        {
+            "date": "2022-04-04T11:48:38.194+02:00",
+            "etat": "EN_COURS",
+            "etatSec": "RDV_PLANIFIE",
+            "idSuivi": "5636591",
+            "commentaire": "mon commentaire CRI D POC"
+        },
+        {
+            "date": "2022-04-04T11:49:38.519+02:00",
+            "etat": "EN_COURS",
+            "etatSec": "EQPT_EXPEDITION_EN_COURS"
+        },
+        {
+            "date": "2022-04-04T11:49:59.359+02:00",
+            "etat": "EN_COURS",
+            "etatSec": "EQPT_EXPEDIE",
+            "idSuivi": "39999900000302304",
+            "commentaire": "EXPEDIE"
+        },
+        {
+            "date": "2022-04-04T11:50:05.713+02:00",
+            "etat": "EN_COURS",
+            "etatSec": "EQPT_LIVRE",
+            "commentaire": "LIVRE"
+        },
+        {
+            "date": "2022-04-04T11:50:10.756+02:00",
+            "etat": "EN_COURS",
+            "etatSec": "LIEN_LIVRE",
+            "idSuivi": "5636591",
+            "commentaire": "mon commentaire CR CRLIEN OK"
+        },
+        {
+            "date": "2022-04-04T11:50:29.596+02:00",
+            "etat": "EN_COURS",
+            "etatSec": "COMMANDE_SERVICES_EN_COURS"
+        },
+        {
+            "date": "2022-04-04T11:50:42.818+02:00",
+            "etat": "EN_COURS",
+            "etatSec": "COMMANDE_SERVICES_OK",
+            "commentaire": "CLOTURE"
+        },
+        {
+            "date": "2022-04-04T11:50:49.117+02:00",
+            "etat": "EN_COURS",
+            "etatSec": "AUTORECETTE_OK",
+            "commentaire": "Mangement - ok - Management OK\nDébit - ok - Débit: 10Mbs\nLatence - ok - Latence: 10ms\nGigue - ok - Gigue : −10 ms\n"
+        },
+        {
+            "date": "2022-04-04T11:51:21.865+02:00",
+            "etat": "CLOTURE"
+        }
+    ],
+    "compteFacturation": "8.57622.10",
+    "msisdn": "0844102816",
+    "ecrasement": false,
+    "numVoisin": false,
+    "offreCommerciale": "WS - L3 FTTE XXXXX 10Mbps 36 mois",
+    "produits": [
+        {
+            "libelle": "GTR FTTE XXXXX 4h HO 5/7"
+        },
+        {
+            "libelle": "ETX-203AX"
+        }
+    ],
+    "nomSite": "SITE 6",
+    "sirenSite": "010203049",
+    "raisonSocialeSite": "Zara",
+    "adresseSite": {
+        "numero": "1",
+        "typeVoie": "RUE",
+        "complementVoie": "",
+        "rue": "DES FRANCAIS LIBRES",
+        "cp": "44200",
+        "codeInsee": "44111",
+        "ville": "NANTES - SUD",
+        "codeRivoliVoie": "4516",
+        "hexacle": "4410926ABY"
+    },
+    "contactSite": {
+        "nom": "regis",
+        "prenom": "padilla",
+        "mail": "padilla.regis@adnov.fr",
+        "telFixe": "0211111111",
+        "telMobile": "0611111111"
+    },
+    "refInterneLien": "emilie.gussetti",
+    "refInterneProjet": "REF 6",
+    "dateValidation": "2022-03-14T17:19:19.024+01:00",
+    "dateSouscription": "2022-03-14T17:19:19.024+01:00",
+    "dateRdv": "2021-07-18T19:00:00.000+02:00",
+    "dateLivraison": "2022-04-04T11:50:10.923+02:00",
+    "dateMiseEnService": "2022-04-04T11:50:10.923+02:00",
+    "nivCollecte": "Niv3",
+    "contactCdp": {
+        "nom": "regis",
+        "prenom": "padilla",
+        "mail": "padilla.regis@adnov.fr",
+        "telFixe": "0211111111",
+        "telMobile": "0611111111"
+    },
+    "technologie": "FTTE",
+    "type": "CREATION_LIEN",
+    "oi": "SFRA",
+    "pm": "SRO-BPI-5805205",
+    "idColis": "39999900000302304",
+    "listeSousCommande": [
+        105323
+    ],
+    "idDemandeEligibilite": 210647,
+    "nomContactLivraison": "regis",
+    "telContactLivraison": "0611111111",
+    "nro": "CHA34",
+    "immeuble": {
+        "imb": "IMB/44024/X/022P",
+        "coordonneeX": "-1.5489717",
+        "coordonneeY": "47.2067365",
+        "libelle": "M22"
+    }
+}
