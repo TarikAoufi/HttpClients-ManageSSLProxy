@@ -12,4 +12,4 @@ selon trois approches d'APIs Client HTTP :
 	
 	- Spring WebClient
 	
-Le projet est accompagné des tests unitaires pour chacune de ces trois approches.
+Le projet est accompagné des tests unitaires pour chacune de ces trois approches. 
